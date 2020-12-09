@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hutubill:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hutubill_jar</output-path>
+    <root id="archive" name="hutubill.jar">
+      <element id="module-output" name="hutubill" />
+      <element id="extracted-dir" path="C:/Program Files/MySQL/MySQL Server 8.0/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/liquidlnf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/swingx-core-1.6.2 (1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/chart.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
