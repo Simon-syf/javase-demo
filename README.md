@@ -6,15 +6,21 @@
 
 前端：Swing 
 
-数据库：MySql
+数据库：MySql-8.0.21
 
 数据库连接工具：JDBC
 
 前后端通信：监听器ActionListener
 
+可运行的jar包下载地址：https://github.com/Simon-syf/javase-demo/blob/master/hutubill.jar
+
 开发过程主要有以下几步：
 
 数据库表设计，主要包括三张表config category record
+
+config：id、key、value
+category：id、name
+record：id、spend、cid、comment、data
 
 前端开发
 
@@ -37,3 +43,5 @@ service：每个功能点的逻辑实现
 startup：启动界面
 
 util：封装之后的类文件
+
+
