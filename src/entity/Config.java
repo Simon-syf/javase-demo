@@ -4,6 +4,8 @@ public class Config {
     public int id;
     public String key;
     public String value;
+    public int one;
+    public int two;
 
     public int getId() {
         return id;
