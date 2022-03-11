@@ -7,6 +7,8 @@ public class Config {
     public int one;
     public int two;
     public int three;
+    public int four;
+    public int five;
 
     public int getId() {
         return id;
