@@ -6,6 +6,7 @@ public class Config {
     public String value;
     public int one;
     public int two;
+    public int three;
 
     public int getId() {
         return id;
